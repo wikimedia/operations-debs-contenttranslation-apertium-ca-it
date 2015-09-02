@@ -1,0 +1,7 @@
+apertium-ca-it (0.1.1~r57554-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 02 Sep 2015 12:14:23 +0530

@@ -1,3 +1,13 @@
+apertium-ca-it (0.1.1~r57554-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * debian/control:
+    + Updated dependencies.
+    + Updated Vcs-* URLs.
+  * Simplified debian/rules.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 13 Jun 2016 21:43:58 +0530
+
 apertium-ca-it (0.1.1~r57554-1) trusty; urgency=low
 
   [ Tino Didriksen ]
